@@ -17,7 +17,7 @@ The model is expected to classify a text to label 0 or 1
 ## Result
 ### Metrics
 Accuracy
-F1 score(也可以不用这个)
+F1 score
 Auc
 Trainint time
 Inference Time
